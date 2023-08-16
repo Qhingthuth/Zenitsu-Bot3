@@ -1,5 +1,5 @@
 {
 
-	"name": "Zenitsu-Bot "
+	"name": "Prince-Bot "
 
 }
