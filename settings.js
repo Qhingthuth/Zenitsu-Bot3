@@ -31,7 +31,7 @@ global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot3' //script link
 global.packname = "Prince-Bot"
 global.author = "🦄Prince walex"
 global.creator = "2349038303472@s.whatsapp.net"
-global.prefa = [' ','!','.','#','']
+global.prefa = [' ','!','*','#','!']
 global.hituet = 0
 
 //media target
