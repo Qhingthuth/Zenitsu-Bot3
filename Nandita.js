@@ -151,7 +151,7 @@ DeepakLft = await getBuffer(ppuser)
 	            const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 	            const xmembers = metadata.participants.length
                 deepakbody = `Hello @${deepakName.split("@")[0]},
-I am *ZenitsuBot*, Welcome to ${metadata.subject}.
+I am *PrinceBot*, Welcome to ${metadata.subject}.
 *Group Description:*
 ${metadata.desc}`
 DeepakBotInc.sendMessage(anu.id,
@@ -168,8 +168,8 @@ DeepakBotInc.sendMessage(anu.id,
 "sourceUrl": `${wagc}`}}})
                 } else if (anu.action == 'remove') {
                 	const deepakbuffer = await getBuffer(ppuser)
-                    const deepaktime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
-	                const deepakdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
+                    const deepaktime = moment.tz('Africa/Lagos').format('HH:mm:ss')
+	                const deepakdate = moment.tz('Africa/Lagos').format('DD/MM/YYYY')
                 	let deepakName = num
                     const Deepakmembers = metadata.participants.length
                     deepakbody = `GoodBye 👋, @${deepakName.split("@")[0]}`
